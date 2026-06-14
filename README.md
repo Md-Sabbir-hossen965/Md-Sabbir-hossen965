@@ -2,9 +2,7 @@
 
 **Full Stack Web Developer** · 📍 Dhaka · 🏢 Codezzi
 
-![Profile Views](https://komarev.com/ghpvc/?username=Md-Sabbir-hossen965&color=brightgreen&style=flat-square&label=Profile+Views)
-
-> Hello! I'm Md Sabbir Hossen, a full stack web developer who thrives on transforming challenges into innovative solutions. As I pursue my Bachelor of Science in Computer Science and Engineering, I'm deeply committed to continuous learning and passionate about sharing insights with fellow tech enthusiasts.
+> I'm Md Sabbir Hossen, a passionate full stack web developer transforming challenges into innovative solutions. Currently pursuing my Bachelor of Science in Computer Science and Engineering, I'm eager to learn continuously and connect with fellow tech enthusiasts to exchange insights and ideas.
 
 ## 🧠 Core Skills
 
@@ -33,4 +31,4 @@
 
 I'm open to new opportunities. Reach me here:
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](N/A) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshabbirhossen@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N/A) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-sabbir-hossain-a20424317/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Sabbir-hossen965)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](N/A) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshabbirhossen@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-sabbir-hossain-a20424317/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Sabbir-hossen965)
